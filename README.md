@@ -1,2 +1,6 @@
 # postman-qa-project-1
-My first API testing project in Postman for QA portfolio.
+Public API: https://reqres.in
+Tools: Postman
+Requests: GET, POST, PUT, DELETE
+Tests: Status 200, data check
+Purpose: Demonstrate API testing skills for QA portfolio.
